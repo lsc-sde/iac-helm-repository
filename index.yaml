@@ -3,7 +3,7 @@ entries:
   aks-dns-operator:
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.879834577Z"
+    created: "2025-01-02T10:11:44.586713904Z"
     description: A Helm chart for Kubernetes
     digest: b69dc03a3c1897c74e6a476c938b0ed7eff1a9e622a9e6c3eab6be6a8f482158
     name: aks-dns-operator
@@ -13,7 +13,7 @@ entries:
     version: 0.2.13
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.8796501Z"
+    created: "2025-01-02T10:11:44.586507598Z"
     description: A Helm chart for Kubernetes
     digest: f28eb89012f6caa693de90c0196d86419ed9a37febd3edfec6f0ef946e07f2fd
     name: aks-dns-operator
@@ -23,7 +23,7 @@ entries:
     version: 0.2.12
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.879471664Z"
+    created: "2025-01-02T10:11:44.586318003Z"
     description: A Helm chart for Kubernetes
     digest: 22b673cff4d838fdc671e6add33f419ef22cbbef40c3c33144767f4ec1013be0
     name: aks-dns-operator
@@ -33,7 +33,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.879256118Z"
+    created: "2025-01-02T10:11:44.586093453Z"
     description: A Helm chart for Kubernetes
     digest: 22c94939012f2ecec6f7a350b7d960ee2afd78321bbf89e40d3513d1f8b29ee4
     name: aks-dns-operator
@@ -43,7 +43,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.881577851Z"
+    created: "2025-01-02T10:11:44.587990632Z"
     description: A Helm chart for Kubernetes
     digest: 6a60bec58cbfd8428d19cc176fa2b8266e8cb9620f4d5d8913e378b53635f784
     name: aks-dns-operator
@@ -53,7 +53,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.881218965Z"
+    created: "2025-01-02T10:11:44.587808782Z"
     description: A Helm chart for Kubernetes
     digest: fc8ecf50db6998b8530d4b671bc9f218e302766671cd7e9b2c01474bc601259a
     name: aks-dns-operator
@@ -63,7 +63,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.880708834Z"
+    created: "2025-01-02T10:11:44.587633424Z"
     description: A Helm chart for Kubernetes
     digest: d07051f1a61fc7f3f0e42a5f5141dac1f898ad9dba2c690c515eb990cff673cb
     name: aks-dns-operator
@@ -73,7 +73,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.880533654Z"
+    created: "2025-01-02T10:11:44.587445072Z"
     description: A Helm chart for Kubernetes
     digest: 72eb7649ae07c7c9f8bf9378c348de2cdbeb716f897a55f2695f4fde0c39c38a
     name: aks-dns-operator
@@ -83,7 +83,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.880363023Z"
+    created: "2025-01-02T10:11:44.587265706Z"
     description: A Helm chart for Kubernetes
     digest: 01c09337d059f3a2e6cb6a501922e2efb1f7ac7c0d4baa4b7badf8883dcf738d
     name: aks-dns-operator
@@ -93,7 +93,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.880184246Z"
+    created: "2025-01-02T10:11:44.587084728Z"
     description: A Helm chart for Kubernetes
     digest: ec8280240aab4f641562434b9b04edd20e2e65273d88e9414e027b9702933dc6
     name: aks-dns-operator
@@ -103,7 +103,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.880009316Z"
+    created: "2025-01-02T10:11:44.586903769Z"
     description: A Helm chart for Kubernetes
     digest: 7f7e38c68ebece781f7d77a84558c3f97508a0a47a25296f1cad70cf139167f4
     name: aks-dns-operator
@@ -113,7 +113,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.879064426Z"
+    created: "2025-01-02T10:11:44.585867821Z"
     description: A Helm chart for Kubernetes
     digest: 92d7fa85fe5646e262117a5bc23711a340f1788b2b4125093f5268b56123758b
     name: aks-dns-operator
@@ -123,7 +123,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2024-12-31T10:02:00.878878346Z"
+    created: "2025-01-02T10:11:44.585640175Z"
     description: A Helm chart for Kubernetes
     digest: 29316c43dc2d577a720415ce937432112accae8b32504b2bdd2614d440c6d79b
     name: aks-dns-operator
@@ -133,7 +133,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2024-12-31T10:02:00.878723544Z"
+    created: "2025-01-02T10:11:44.585241765Z"
     description: A Helm chart for Kubernetes
     digest: 231844f2c09fe55417df44a00948031ca50ac0112701375675023cbac8cc83fc
     name: aks-dns-operator
@@ -143,7 +143,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2024-12-31T10:02:00.878576227Z"
+    created: "2025-01-02T10:11:44.58495573Z"
     description: A Helm chart for Kubernetes
     digest: a824c0e2474d4c53e1d510c92d826abab992a4f51fbfe168e15b0c89e31fe062
     name: aks-dns-operator
@@ -153,7 +153,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2024-12-31T10:02:00.878432135Z"
+    created: "2025-01-02T10:11:44.584488947Z"
     description: A Helm chart for Kubernetes
     digest: ad8f69b270fba09a51e525b3f5f93d18ef71b8cda2ede287a200f1a834cc03ac
     name: aks-dns-operator
@@ -163,7 +163,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2024-12-31T10:02:00.878269118Z"
+    created: "2025-01-02T10:11:44.584325341Z"
     description: A Helm chart for Kubernetes
     digest: 9e73b787241d544a5a6c6a9f453f1ca2036ea0e64d458b862d0a216979d17a37
     name: aks-dns-operator
@@ -173,7 +173,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2024-12-31T10:02:00.878093437Z"
+    created: "2025-01-02T10:11:44.583972441Z"
     description: A Helm chart for Kubernetes
     digest: 63cdc5a418287758810887af3519c9f9b134795c9820693b15ce594f115b0165
     name: aks-dns-operator
@@ -183,7 +183,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:00.877910523Z"
+    created: "2025-01-02T10:11:44.583825075Z"
     description: A Helm chart for Kubernetes
     digest: cd194972bf19482476d3a40262fa7427cd211bc421fa50156f5114ea999eb74e
     name: aks-dns-operator
@@ -193,7 +193,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.877737767Z"
+    created: "2025-01-02T10:11:44.58364592Z"
     description: A Helm chart for Kubernetes
     digest: 31d87f169a10bd126e71e0a93d644a2860c564b298227389bbe55f287fd12d2d
     name: aks-dns-operator
@@ -204,7 +204,17 @@ entries:
   analytics-workspace-management:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.890650286Z"
+    created: "2025-01-02T10:11:44.597414801Z"
+    description: Helm chart for LSCSDE Workspace Management
+    digest: d3a4c6e8732eba57a5471a7dedcc372629f18116832c9caf04f2e3ffb404f3fa
+    name: analytics-workspace-management
+    type: application
+    urls:
+    - analytics-workspace-management-0.1.41.tgz
+    version: 0.1.41
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-01-02T10:11:44.596753123Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 47ce9321b23a3eddf4fd53bc7543c550a7a48d9ba09c8648db0ef4d646af21ec
     name: analytics-workspace-management
@@ -214,7 +224,7 @@ entries:
     version: 0.1.40
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.890339791Z"
+    created: "2025-01-02T10:11:44.596443474Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 4be6ea5953769d08d87516e11f0bddea8ff708248edf215be273cbae663d36b7
     name: analytics-workspace-management
@@ -224,7 +234,7 @@ entries:
     version: 0.1.39
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.890023696Z"
+    created: "2025-01-02T10:11:44.596133143Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 3c69755aa6e6d113a35eaf5515048eed183589991ab17a1074ec236ed10b2139
     name: analytics-workspace-management
@@ -234,7 +244,7 @@ entries:
     version: 0.1.38
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.889723681Z"
+    created: "2025-01-02T10:11:44.595833052Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 481ae0bd267bf8727545f3fb244b3b494f04d85f1c0eb35c333ededd765a770f
     name: analytics-workspace-management
@@ -244,7 +254,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.889444575Z"
+    created: "2025-01-02T10:11:44.595510819Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 562411492c3703b49a99bbfe0c01d0fa46e92fa5d68379fb2568b094cd949dd5
     name: analytics-workspace-management
@@ -254,7 +264,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.889157835Z"
+    created: "2025-01-02T10:11:44.595210197Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 96239a2bf17e1ce0cd1018f2a86530502bdfa6d37fa9679ffd12f99c4a07acaf
     name: analytics-workspace-management
@@ -264,7 +274,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.888879801Z"
+    created: "2025-01-02T10:11:44.594941394Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 4497ef680f73b0b09e8cfdc462516c444b1734ab3b2972bdb76b31755e095843
     name: analytics-workspace-management
@@ -274,7 +284,7 @@ entries:
     version: 0.1.33
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.888601156Z"
+    created: "2025-01-02T10:11:44.594665448Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 6879b143425dba992f2d08c6b83833b493f0c2fdaa7f949e566b3c72bb17cd52
     name: analytics-workspace-management
@@ -284,7 +294,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.88831667Z"
+    created: "2025-01-02T10:11:44.594384081Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 4f614d46c824055e47df7901e3f37a7ffcd66cff7d22f44cf90584b04e1d737f
     name: analytics-workspace-management
@@ -294,7 +304,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.88779121Z"
+    created: "2025-01-02T10:11:44.594071897Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 8974fea70fa162bcdb4f8a6d0f9a1b441db846a335562ed1ffa7eb45f3f48e19
     name: analytics-workspace-management
@@ -304,7 +314,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.887050104Z"
+    created: "2025-01-02T10:11:44.593792364Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 7cae4353487b0d2b8d5b2057584f3b5de532c472dec906e2c3accc6488f32a03
     name: analytics-workspace-management
@@ -314,7 +324,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.886772191Z"
+    created: "2025-01-02T10:11:44.593483937Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 97e1a873119e18f4603c46704881d8a82134348d6242206a11ae0fe8d897cde2
     name: analytics-workspace-management
@@ -324,7 +334,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.88650118Z"
+    created: "2025-01-02T10:11:44.593207149Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: d35b586ce60ff975cc8e6b2b74866cfe8acdae5d9ff85782f529cfd5bbd352cc
     name: analytics-workspace-management
@@ -334,7 +344,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.886226493Z"
+    created: "2025-01-02T10:11:44.592929349Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 9762300e80e7ec57bd10457d18101d32dc34678f6c5a452d7b78bfea37f47b0e
     name: analytics-workspace-management
@@ -344,7 +354,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.885944402Z"
+    created: "2025-01-02T10:11:44.592641Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 49903b3443a496902253feca9ee77f7270c85766256868dce2d77472bc597866
     name: analytics-workspace-management
@@ -354,7 +364,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.885610653Z"
+    created: "2025-01-02T10:11:44.592361748Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 96b56c43f9e519affe461cd6fe8b12f9042c89e4a864082e1c01d1b6c9820e42
     name: analytics-workspace-management
@@ -364,7 +374,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.885223393Z"
+    created: "2025-01-02T10:11:44.592073539Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 93d84bce5388b8ec4a22430f635fcd1e433e3e38ca47a241dd5bab895ff864cd
     name: analytics-workspace-management
@@ -374,7 +384,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.88495606Z"
+    created: "2025-01-02T10:11:44.591775551Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: ccd00e8a2f28bbf1bd2a250ca0a5c4d7fdfb2112c13af8e36b7aa32c7f276ac5
     name: analytics-workspace-management
@@ -384,7 +394,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.88469067Z"
+    created: "2025-01-02T10:11:44.591317948Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: a2a16a68eba93c052d001ffea44274b5189e0a4744cb7d18e4476b7eeccab208
     name: analytics-workspace-management
@@ -394,7 +404,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.884420331Z"
+    created: "2025-01-02T10:11:44.590750115Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 387f4c10717235bdae77998876ccac2f62bc3e8effe0ef466df41272ecb91b6b
     name: analytics-workspace-management
@@ -404,7 +414,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.88414919Z"
+    created: "2025-01-02T10:11:44.590307698Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 6c5163535c31545dca2684f283127af454f419a799a28ff603fb9abf1886b014
     name: analytics-workspace-management
@@ -414,7 +424,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.883880474Z"
+    created: "2025-01-02T10:11:44.58999365Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 6771589ba9783806c598f776bc8a25da061749be1435271d4ccceed7ab4b5b4c
     name: analytics-workspace-management
@@ -424,7 +434,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.883606598Z"
+    created: "2025-01-02T10:11:44.589713706Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 6a3b41f0ef835b958c60d4bd1b5daa5ec6bdddb78a7ad77a80f6a0efd621e775
     name: analytics-workspace-management
@@ -434,7 +444,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.88328914Z"
+    created: "2025-01-02T10:11:44.589442279Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 282a907e0bb388ed457baf2faaf043032a245c01c23878a4e6e2f190d82dcc29
     name: analytics-workspace-management
@@ -444,7 +454,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.882995968Z"
+    created: "2025-01-02T10:11:44.589168126Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 0e2ff764cbb30fc2ffa8fd9c12862c36f9792842dab2535a132b20f71874bce0
     name: analytics-workspace-management
@@ -454,7 +464,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.88280098Z"
+    created: "2025-01-02T10:11:44.588975896Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: e2da10be68ee33156c2e7ac228e63cecac204af917b961edeebb4a37153b019e
     name: analytics-workspace-management
@@ -464,7 +474,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.882601284Z"
+    created: "2025-01-02T10:11:44.588783666Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: f19b69d5dd3c5478d55a54eaa7365e15327eac023faa7d1db7ba2c2821c44f38
     name: analytics-workspace-management
@@ -474,7 +484,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.882413861Z"
+    created: "2025-01-02T10:11:44.588584834Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 98c28d69af4fd7327749652eff4b1acee015a63ce90b0062fb401279bfc1592c
     name: analytics-workspace-management
@@ -484,7 +494,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.890841556Z"
+    created: "2025-01-02T10:11:44.597922444Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: 57dd58ea910afeceacdc396b78886f0f2768531cb2588586d58e71bbca5a3a88
     name: analytics-workspace-management
@@ -494,7 +504,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.882217892Z"
+    created: "2025-01-02T10:11:44.588375443Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: f7f10322789878ce498c6b2e4a877b3f2233f0879c7241b5550319765f3daa87
     name: analytics-workspace-management
@@ -504,7 +514,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.882011413Z"
+    created: "2025-01-02T10:11:44.588187721Z"
     description: Helm chart for LSCSDE Workspace Management
     digest: e16ce30bfe6f13971945c6830cb8e12c9d48badfe60f24fd43c53dd4ed11722f
     name: analytics-workspace-management
@@ -515,7 +525,7 @@ entries:
   awms-guacamole-operator:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.894702701Z"
+    created: "2025-01-02T10:11:44.601077968Z"
     description: A Helm chart for Kubernetes
     digest: 70667f1e9bc780c2a27477c92ed8f97b77acc5187cdeb04676b1e0629c873a2e
     name: awms-guacamole-operator
@@ -525,7 +535,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.894533051Z"
+    created: "2025-01-02T10:11:44.600914532Z"
     description: A Helm chart for Kubernetes
     digest: 9f0cd149d600746b900c834d7e410594139adbfefef329dd248d2a20352de1f8
     name: awms-guacamole-operator
@@ -535,7 +545,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.89436245Z"
+    created: "2025-01-02T10:11:44.600748742Z"
     description: A Helm chart for Kubernetes
     digest: 936cc801c1f0657e756a296480f69626828cd52aa4f3bc309fa53321449bd2ef
     name: awms-guacamole-operator
@@ -545,7 +555,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.894177882Z"
+    created: "2025-01-02T10:11:44.600583342Z"
     description: A Helm chart for Kubernetes
     digest: 79bf434f621608dc8f07000c55db99165df784d7d7ecfd7916bec4855e2611f8
     name: awms-guacamole-operator
@@ -555,7 +565,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.893980561Z"
+    created: "2025-01-02T10:11:44.600418053Z"
     description: A Helm chart for Kubernetes
     digest: 7df08bfb439303ded06dfe3f43e4b6268e95b864ef21abdb3f44893cf2024e84
     name: awms-guacamole-operator
@@ -565,7 +575,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.893458757Z"
+    created: "2025-01-02T10:11:44.600251101Z"
     description: A Helm chart for Kubernetes
     digest: b142e0f2a6e80f24eb364091b0debaa63bb0a78c843c12dc1f4feca95c916066
     name: awms-guacamole-operator
@@ -575,7 +585,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.893051159Z"
+    created: "2025-01-02T10:11:44.600085211Z"
     description: A Helm chart for Kubernetes
     digest: f34940e7d83495297e129e7de3c47dbe6da2f75e103c89485552fd76634e507b
     name: awms-guacamole-operator
@@ -585,7 +595,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.892670481Z"
+    created: "2025-01-02T10:11:44.599919541Z"
     description: A Helm chart for Kubernetes
     digest: 042fc8beb44849524b910ba5c55e5a70cfeca8fbc282ad9121707bb0e79af272
     name: awms-guacamole-operator
@@ -595,7 +605,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.892508597Z"
+    created: "2025-01-02T10:11:44.599753319Z"
     description: A Helm chart for Kubernetes
     digest: 475bc11ffe340c8c0cb4e89a66af264a8ed421698a22226635c853bfcb873fce
     name: awms-guacamole-operator
@@ -605,7 +615,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.892346672Z"
+    created: "2025-01-02T10:11:44.599586567Z"
     description: A Helm chart for Kubernetes
     digest: 8df5eff5946ac8f65a62e3713dbc8f5e11e0bd18ddfc069d59f4b1a19e3f38ff
     name: awms-guacamole-operator
@@ -615,7 +625,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.892181811Z"
+    created: "2025-01-02T10:11:44.599416529Z"
     description: A Helm chart for Kubernetes
     digest: fb85e1608d1c744464bc01a1d0b6b87cc45d8e298706042f426a162a232f688e
     name: awms-guacamole-operator
@@ -625,7 +635,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.892018784Z"
+    created: "2025-01-02T10:11:44.599246662Z"
     description: A Helm chart for Kubernetes
     digest: 7c7f101e57f337e1392bb036301151bf1f4519be99506e5f860fbdfdfa8df756
     name: awms-guacamole-operator
@@ -635,7 +645,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.891854775Z"
+    created: "2025-01-02T10:11:44.599072486Z"
     description: A Helm chart for Kubernetes
     digest: 71905e8799fbe865ab7a9d2ba002f5eb0a7d462ed5012678423899e645c8992c
     name: awms-guacamole-operator
@@ -645,7 +655,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.891691147Z"
+    created: "2025-01-02T10:11:44.598891647Z"
     description: A Helm chart for Kubernetes
     digest: dd62642af05ea4bd63d2dd11c987ee3cd24a30cabbc6088bb3764e0da120e51c
     name: awms-guacamole-operator
@@ -655,7 +665,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.891524653Z"
+    created: "2025-01-02T10:11:44.598714406Z"
     description: A Helm chart for Kubernetes
     digest: 4352e655840f49623a84e84d6b260ac29622283128112f93850b499f5e7b1add
     name: awms-guacamole-operator
@@ -665,7 +675,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.891319276Z"
+    created: "2025-01-02T10:11:44.598512638Z"
     description: A Helm chart for Kubernetes
     digest: 5c1dbd887a941ba621324743d402eedd8ba0f1cf8e1e8156a64f58794f80b7cc
     name: awms-guacamole-operator
@@ -675,7 +685,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.891153995Z"
+    created: "2025-01-02T10:11:44.598313185Z"
     description: A Helm chart for Kubernetes
     digest: ee8d1ecd7beb0764bb277b5b7c29f3c0b0775352b1253c024e027090672eb3c0
     name: awms-guacamole-operator
@@ -685,7 +695,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.895334932Z"
+    created: "2025-01-02T10:11:44.601711062Z"
     description: A Helm chart for Kubernetes
     digest: ffa6e844f4d61f767bfc38a47408c1fc8c3d01ff6f1446389d325575c41ee177
     name: awms-guacamole-operator
@@ -695,7 +705,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.89516952Z"
+    created: "2025-01-02T10:11:44.601546064Z"
     description: A Helm chart for Kubernetes
     digest: c5f4e6bb3d36c4ed7b0bf6822b54f3747058bdeb4595cced998c5b8e1fae4fb3
     name: awms-guacamole-operator
@@ -705,7 +715,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.895001724Z"
+    created: "2025-01-02T10:11:44.601380354Z"
     description: A Helm chart for Kubernetes
     digest: 95f450bc924151083161728607c0ae60b49ec2fb04c45d13daca09d521bd5808
     name: awms-guacamole-operator
@@ -715,7 +725,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.894847784Z"
+    created: "2025-01-02T10:11:44.601227978Z"
     description: A Helm chart for Kubernetes
     digest: 3c038d3f5b334342e0d158681923c0c03f180c2b319bd388ac5ed0e311b4f7ad
     name: awms-guacamole-operator
@@ -725,7 +735,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.890985688Z"
+    created: "2025-01-02T10:11:44.598098884Z"
     description: A Helm chart for Kubernetes
     digest: 9a76640acdda3998d189f28ae2f9d8716f02ec7d4e5d544cfb2877c28615e9b3
     name: awms-guacamole-operator
@@ -736,7 +746,7 @@ entries:
   configmap-transformer-controller:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.89674079Z"
+    created: "2025-01-02T10:11:44.603856576Z"
     description: A Helm chart for Kubernetes
     digest: 1ead0efe0affd4ce6b490eee550265f22e6d55e2522b6de6b0369ca1a236f161
     name: configmap-transformer-controller
@@ -746,7 +756,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.896543689Z"
+    created: "2025-01-02T10:11:44.603626977Z"
     description: A Helm chart for Kubernetes
     digest: 82314b2326eb6b268c40ffc524b344ee8ceaf6422f7038ff887deb6493e7104f
     name: configmap-transformer-controller
@@ -756,7 +766,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.896347028Z"
+    created: "2025-01-02T10:11:44.603379885Z"
     description: A Helm chart for Kubernetes
     digest: 4508e347333ed5f59ef545458947ae32c5e95bb3aee1645f23d69979bb561836
     name: configmap-transformer-controller
@@ -766,7 +776,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.896152682Z"
+    created: "2025-01-02T10:11:44.602930514Z"
     description: A Helm chart for Kubernetes
     digest: a9c9df992faa4417a2bfe0a65f5bb2717cddbba9a1d8b2d37a51b3266cc5d16f
     name: configmap-transformer-controller
@@ -776,7 +786,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.895956773Z"
+    created: "2025-01-02T10:11:44.602493176Z"
     description: A Helm chart for Kubernetes
     digest: 475b936c6ca48971e5b93844d5e355642e69e5bb6d7df321c153f5e5ea8953b5
     name: configmap-transformer-controller
@@ -786,7 +796,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.895756676Z"
+    created: "2025-01-02T10:11:44.602090843Z"
     description: A Helm chart for Kubernetes
     digest: b4dfb90c77203d6b4435c1df9d403efbc74b138364eb4663b37ae64db300a6ec
     name: configmap-transformer-controller
@@ -796,7 +806,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.895547382Z"
+    created: "2025-01-02T10:11:44.601879798Z"
     description: A Helm chart for Kubernetes
     digest: 25d8417c4c56a83f4d36a4231260aa7f406b128da66642e432ad8242edc69eb2
     name: configmap-transformer-controller
@@ -807,7 +817,7 @@ entries:
   github-actions-runner:
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-31T10:02:00.901201075Z"
+    created: "2025-01-02T10:11:44.607628073Z"
     description: Helm chart for the github actions runner
     digest: f1ae7d48af173fa893ee469468bc4e246810f89dac9882e92cb435395461f0fa
     name: github-actions-runner
@@ -817,7 +827,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-31T10:02:00.900966473Z"
+    created: "2025-01-02T10:11:44.607398634Z"
     description: Helm chart for the github actions runner
     digest: 009dc67fb2dcea6a1edc1129728a2dd56d5891be5e59725218b73048949367a0
     name: github-actions-runner
@@ -827,7 +837,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-31T10:02:00.900714018Z"
+    created: "2025-01-02T10:11:44.607168924Z"
     description: Helm chart for the github actions runner
     digest: d49e9227652d8a69a6e2445e2a9f8e48e35bbd3677e9efda2fbb99d009ff437e
     name: github-actions-runner
@@ -837,7 +847,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-31T10:02:00.900443357Z"
+    created: "2025-01-02T10:11:44.606938733Z"
     description: Helm chart for the github actions runner
     digest: bf0e7cdc841897d0475ee685e04c3439e14497416aab1a4e28d4e8cd072d57dd
     name: github-actions-runner
@@ -847,7 +857,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-31T10:02:00.900199879Z"
+    created: "2025-01-02T10:11:44.606709895Z"
     description: Helm chart for the github actions runner
     digest: c2f297e4242c8ee0a6ba721d3794abbb67f9df9b75f8d1f17bc797158b7e68f2
     name: github-actions-runner
@@ -857,7 +867,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-31T10:02:00.899948235Z"
+    created: "2025-01-02T10:11:44.60647187Z"
     description: Helm chart for the github actions runner
     digest: 1d8cd2e9189a9cb5dbbe3d0a65eb3e8ed1d02f389a0c0e6c482c89144f554b90
     name: github-actions-runner
@@ -867,7 +877,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-31T10:02:00.899280714Z"
+    created: "2025-01-02T10:11:44.605997342Z"
     description: Helm chart for the github actions runner
     digest: ec1de871d20ee740d8b10ea195e9dcf197ea5912284d8e624e131f384a71a10f
     name: github-actions-runner
@@ -877,7 +887,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 2.1.16
-    created: "2024-12-31T10:02:00.898804777Z"
+    created: "2025-01-02T10:11:44.605771109Z"
     description: Helm chart for the github actions runner
     digest: d7f4f29788bb1280a66904ae7aecaffcd2d8a906b3ac650ef3d6759b206aba2e
     name: github-actions-runner
@@ -887,7 +897,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 2.1.15
-    created: "2024-12-31T10:02:00.898298404Z"
+    created: "2025-01-02T10:11:44.605529366Z"
     description: Helm chart for the github actions runner
     digest: da86565d4f4aa1d9594f1c1a8ce569b2aa43ebe573ba8418d8f2f947cd127128
     name: github-actions-runner
@@ -897,7 +907,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 2.1.14
-    created: "2024-12-31T10:02:00.898078179Z"
+    created: "2025-01-02T10:11:44.605299917Z"
     description: Helm chart for the github actions runner
     digest: c3e2311dd0c71ccfd6595ed2339962845915476d2cf7d450377027e661bfc0b1
     name: github-actions-runner
@@ -907,7 +917,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 2.1.13
-    created: "2024-12-31T10:02:00.897851322Z"
+    created: "2025-01-02T10:11:44.605072341Z"
     description: Helm chart for the github actions runner
     digest: d1a2a00dafd46aacadac4fd8671691fe5465a28421eefa198b094a609fe85c7e
     name: github-actions-runner
@@ -917,7 +927,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 2.1.12
-    created: "2024-12-31T10:02:00.897617071Z"
+    created: "2025-01-02T10:11:44.604836931Z"
     description: Helm chart for the github actions runner
     digest: c46c7d1a1268c41f7f0d1e33efbaf0669471b1015312d53c6624c25b43cb3785
     name: github-actions-runner
@@ -927,7 +937,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 2.1.11
-    created: "2024-12-31T10:02:00.89738301Z"
+    created: "2025-01-02T10:11:44.604588265Z"
     description: Helm chart for the github actions runner
     digest: f3ad391cde5a4461791618261334d6897cb6dc4689f187ea356e56d85c83111c
     name: github-actions-runner
@@ -937,7 +947,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 2.1.9
-    created: "2024-12-31T10:02:00.902703545Z"
+    created: "2025-01-02T10:11:44.609857921Z"
     description: Helm chart for the github actions runner
     digest: e75a2c0c0ac6a1d814f5d75c370f5dee059d621a9c32028b42825bfe41922be8
     name: github-actions-runner
@@ -947,7 +957,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 2.1.8
-    created: "2024-12-31T10:02:00.90248831Z"
+    created: "2025-01-02T10:11:44.609629774Z"
     description: Helm chart for the github actions runner
     digest: d3df78907532d2ce4b92473a605bbe9791400c3f5992e3f0cfc4551b27b32110
     name: github-actions-runner
@@ -957,7 +967,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 2.1.7
-    created: "2024-12-31T10:02:00.902271Z"
+    created: "2025-01-02T10:11:44.609386519Z"
     description: Helm chart for the github actions runner
     digest: 16629e30e54aa8a31693fb99a433ec41083f5bbd076381238ad42a76ac750404
     name: github-actions-runner
@@ -967,7 +977,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 2.1.6
-    created: "2024-12-31T10:02:00.902052399Z"
+    created: "2025-01-02T10:11:44.608894502Z"
     description: Helm chart for the github actions runner
     digest: e9f1b6555e0fca3b01786f53eea7b067f84cf0833659d74bdd26a35cab33490e
     name: github-actions-runner
@@ -977,7 +987,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.17.4
-    created: "2024-12-31T10:02:00.901838856Z"
+    created: "2025-01-02T10:11:44.608281596Z"
     description: Helm chart for the github actions runner
     digest: 9e0eed981b4eb10fb88dd34e2feeb195a26f3b06bf9059c25a233d66e89f5ce8
     name: github-actions-runner
@@ -987,7 +997,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.17.3
-    created: "2024-12-31T10:02:00.901626927Z"
+    created: "2025-01-02T10:11:44.608071262Z"
     description: Helm chart for the github actions runner
     digest: b69df527b3b407b1f7108f12e918530eed26823c7c153b26fe138b8fda4c700a
     name: github-actions-runner
@@ -997,7 +1007,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.17.2
-    created: "2024-12-31T10:02:00.901415348Z"
+    created: "2025-01-02T10:11:44.607847063Z"
     description: Helm chart for the github actions runner
     digest: 61830f16e838f2ec2aeef215d7acc0e10b879ec8afdfd0a3aea4d2ec34eec51c
     name: github-actions-runner
@@ -1007,7 +1017,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.17.1
-    created: "2024-12-31T10:02:00.899693696Z"
+    created: "2025-01-02T10:11:44.606205361Z"
     description: Helm chart for the github actions runner
     digest: d19962008e4d3f37c26f8a0a74b51c21e73fc8b56e35985c9cf684aaedc36bdc
     name: github-actions-runner
@@ -1017,7 +1027,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2024-12-31T10:02:00.897156453Z"
+    created: "2025-01-02T10:11:44.604347265Z"
     description: Helm chart for the github actions runner
     digest: 12676b02dfb4e1b711bee0b946dcd1719c17b4f4e15618f70d2dc78d50a45f53
     name: github-actions-runner
@@ -1027,7 +1037,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-31T10:02:00.896946588Z"
+    created: "2025-01-02T10:11:44.60409883Z"
     description: Helm chart for the github actions runner
     digest: a43465b66286bec3e26efcbb9456635da5faae6f6ecc06d4193e7594c8ca40f5
     name: github-actions-runner
@@ -1038,7 +1048,7 @@ entries:
   guacamole:
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.905638704Z"
+    created: "2025-01-02T10:11:44.612282247Z"
     description: Helm chart for guacamole
     digest: 31b9d1e6bf5fba4e53a0e78028b2cb6d0720d4b1c505d54e5d045a7e077f25ff
     name: guacamole
@@ -1048,7 +1058,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.904798141Z"
+    created: "2025-01-02T10:11:44.611967027Z"
     description: Helm chart for guacamole
     digest: 4151464e12e922fc4ba36ff4b2f19ebf508f4a6d4a16acce64f717202d8d62f6
     name: guacamole
@@ -1058,7 +1068,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.904466977Z"
+    created: "2025-01-02T10:11:44.611620619Z"
     description: Helm chart for guacamole
     digest: 34f4e96c5787193189d58ba30d0e5f5357f65bc48dd39bf5301d2140f2be8921
     name: guacamole
@@ -1068,7 +1078,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.904131275Z"
+    created: "2025-01-02T10:11:44.611284249Z"
     description: Helm chart for guacamole
     digest: 4ef09f9ca659ca264a11718eacc37388dd2d36ba1b6260648e90c072978a0e1d
     name: guacamole
@@ -1078,7 +1088,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.903792446Z"
+    created: "2025-01-02T10:11:44.610939785Z"
     description: Helm chart for guacamole
     digest: 99003c88597d01946cc4e7a3b39ab713b1063ee0a2e6dfebec38bf42965bd053
     name: guacamole
@@ -1088,7 +1098,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.903446454Z"
+    created: "2025-01-02T10:11:44.610594138Z"
     description: Helm chart for guacamole
     digest: 8d2855a9e0f6fcedd2f89bfb9dfbbe60fc4701036fabc724c4fdf45222917173
     name: guacamole
@@ -1098,7 +1108,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.903043515Z"
+    created: "2025-01-02T10:11:44.61020997Z"
     description: Helm chart for guacamole
     digest: daac4d33297222c03b5e005ccfe4efed5100ef0bdf92d8f658c977b16180989e
     name: guacamole
@@ -1108,7 +1118,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.908449386Z"
+    created: "2025-01-02T10:11:44.614724556Z"
     description: Helm chart for guacamole
     digest: 76350556bb611ab93717f2ebc4c54e90d44ff86ab3be321ff9928394508d4654
     name: guacamole
@@ -1118,7 +1128,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.908115436Z"
+    created: "2025-01-02T10:11:44.614382586Z"
     description: Helm chart for guacamole
     digest: 514c883880c5ba4877f4fc0b7a238dc291902b10b4c30723bc9ff8872a05b9a8
     name: guacamole
@@ -1128,7 +1138,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.907776959Z"
+    created: "2025-01-02T10:11:44.614014447Z"
     description: Helm chart for guacamole
     digest: 016686f3bf8adbf7af1e74111580626b34269b11478c3738f26dab4ff20b03c1
     name: guacamole
@@ -1138,7 +1148,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.907434965Z"
+    created: "2025-01-02T10:11:44.613678238Z"
     description: Helm chart for guacamole
     digest: 46e513d09cc91b3bbb9e3d6e5d9fc631b29f06dd20b9bc1f66b61b3c1e0e23e5
     name: guacamole
@@ -1148,7 +1158,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.907061461Z"
+    created: "2025-01-02T10:11:44.613341338Z"
     description: Helm chart for guacamole
     digest: 1afb62796bf6682ab113212887d279b783c1c9679532594ff64a132aa9a09604
     name: guacamole
@@ -1158,7 +1168,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.906719838Z"
+    created: "2025-01-02T10:11:44.613005319Z"
     description: Helm chart for guacamole
     digest: 738ee3b0922121dcfc497d90d45c2b6b7246c77ba851d4cae0f7b766a05d03bc
     name: guacamole
@@ -1168,7 +1178,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.906468945Z"
+    created: "2025-01-02T10:11:44.612756784Z"
     description: Helm chart for guacamole
     digest: 10f061f1d8daa14a343a4ee1219f9cd004585058fb076c3b4f060a3b6a496f43
     name: guacamole
@@ -1178,7 +1188,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:00.906203695Z"
+    created: "2025-01-02T10:11:44.612517677Z"
     description: Helm chart for guacamole
     digest: fc4763f0b55521da51b389ca8733db87be8961eed3e6cb9cc3c301213cc60347
     name: guacamole
@@ -1189,7 +1199,7 @@ entries:
   lscsde-flux:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.100404838Z"
+    created: "2025-01-02T10:11:44.797118081Z"
     description: Helm chart for Flux Configurations
     digest: 6a721640986f638bf0c7257c92af9fb11cee6dd97707fbc9053c7954a3046111
     name: lscsde-flux
@@ -1199,7 +1209,7 @@ entries:
     version: 0.1.83
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.09750207Z"
+    created: "2025-01-02T10:11:44.793495269Z"
     description: Helm chart for Flux Configurations
     digest: 709d322b9589758a803c9fcf3bca10cd6b8f3e0236a3090f2ac56854069163b0
     name: lscsde-flux
@@ -1209,7 +1219,7 @@ entries:
     version: 0.1.82
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.093881922Z"
+    created: "2025-01-02T10:11:44.790569184Z"
     description: Helm chart for Flux Configurations
     digest: 4745efbaeed470687cb0d6bf124c856e07b0343c91623408b14ccb246a235ffc
     name: lscsde-flux
@@ -1219,7 +1229,7 @@ entries:
     version: 0.1.81
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.091029539Z"
+    created: "2025-01-02T10:11:44.787674188Z"
     description: Helm chart for Flux Configurations
     digest: 2904d4c4be595fab1406eb11c396ed69d12e493710aa1da8e6543f1384cf614a
     name: lscsde-flux
@@ -1229,7 +1239,7 @@ entries:
     version: 0.1.80
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.086561473Z"
+    created: "2025-01-02T10:11:44.782407874Z"
     description: Helm chart for Flux Configurations
     digest: 89931247b0b81219cb2fbc5832fbfe9531e5b184f6590016708df1e34bc9d25b
     name: lscsde-flux
@@ -1239,7 +1249,7 @@ entries:
     version: 0.1.79
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.083090214Z"
+    created: "2025-01-02T10:11:44.779552532Z"
     description: Helm chart for Flux Configurations
     digest: afd06c68a4bb36cf2c0b70378f69c3335eeabfefb4fd96bd6d620d3385581e4b
     name: lscsde-flux
@@ -1249,7 +1259,7 @@ entries:
     version: 0.1.78
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.0803334Z"
+    created: "2025-01-02T10:11:44.776688854Z"
     description: Helm chart for Flux Configurations
     digest: 38d44cd6279f13b9dd4469be2a0e506b1f545c3cba0055e90a97644696100da4
     name: lscsde-flux
@@ -1259,7 +1269,7 @@ entries:
     version: 0.1.77
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.077538306Z"
+    created: "2025-01-02T10:11:44.773846557Z"
     description: Helm chart for Flux Configurations
     digest: 5768322404c732f4414d625306a44231457f8556023e6f966c53c21540e9c4d4
     name: lscsde-flux
@@ -1269,7 +1279,7 @@ entries:
     version: 0.1.76
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.074693477Z"
+    created: "2025-01-02T10:11:44.770240374Z"
     description: Helm chart for Flux Configurations
     digest: 584535c46478f60ed604a931b413a134ee0117a104d329c5d24ab16c7a136f8d
     name: lscsde-flux
@@ -1279,7 +1289,7 @@ entries:
     version: 0.1.75
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.071064881Z"
+    created: "2025-01-02T10:11:44.767496541Z"
     description: Helm chart for Flux Configurations
     digest: 7b56bbc43276a4cdf6da4de4001ccf0a378deee94396caadb2a5fef9c4e0a3e2
     name: lscsde-flux
@@ -1289,7 +1299,7 @@ entries:
     version: 0.1.74
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.068375585Z"
+    created: "2025-01-02T10:11:44.764739994Z"
     description: Helm chart for Flux Configurations
     digest: e69371ac3fefc50085988ea052fe1c6531bb861262915f6834d35c839b4967fa
     name: lscsde-flux
@@ -1299,7 +1309,7 @@ entries:
     version: 0.1.73
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.065645262Z"
+    created: "2025-01-02T10:11:44.762002121Z"
     description: Helm chart for Flux Configurations
     digest: 2ac9f351b6095ed2b2f612ce57c3c2ee3f45bdc4d4867d57eb421df3a6a79803
     name: lscsde-flux
@@ -1309,7 +1319,7 @@ entries:
     version: 0.1.72
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.062932261Z"
+    created: "2025-01-02T10:11:44.759280239Z"
     description: Helm chart for Flux Configurations
     digest: 960977e4a0b3a76dcdd36a6adddbf2000b308468ce84281ac50d34a377e6abdb
     name: lscsde-flux
@@ -1319,7 +1329,7 @@ entries:
     version: 0.1.71
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.060241483Z"
+    created: "2025-01-02T10:11:44.755463681Z"
     description: Helm chart for Flux Configurations
     digest: 6f822df5f531969f0ce58c313ac1750c59674664809801db620448a08969596b
     name: lscsde-flux
@@ -1329,7 +1339,7 @@ entries:
     version: 0.1.70
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.055050885Z"
+    created: "2025-01-02T10:11:44.751079699Z"
     description: Helm chart for Flux Configurations
     digest: 24a43d91fcbe1014d53b13838811c702c3acf01818269de2ec014a7d506b3150
     name: lscsde-flux
@@ -1339,7 +1349,7 @@ entries:
     version: 0.1.69
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.052450377Z"
+    created: "2025-01-02T10:11:44.748407319Z"
     description: Helm chart for Flux Configurations
     digest: d640c3001d8df95a418018a2461b1120660778160b7388f1c7776f58127a1fe1
     name: lscsde-flux
@@ -1349,7 +1359,7 @@ entries:
     version: 0.1.68
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.049809502Z"
+    created: "2025-01-02T10:11:44.745056637Z"
     description: Helm chart for Flux Configurations
     digest: cfb23722f88f8dc29db361527dcd97a63c10698d52da976563e440c5f04da3f6
     name: lscsde-flux
@@ -1359,7 +1369,7 @@ entries:
     version: 0.1.67
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.047183666Z"
+    created: "2025-01-02T10:11:44.74243374Z"
     description: Helm chart for Flux Configurations
     digest: ddbaeb92855d47029141cd015cf59c83c66fd1bed55a952bbd95d08bb6b0c2ad
     name: lscsde-flux
@@ -1369,7 +1379,7 @@ entries:
     version: 0.1.64
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.043896345Z"
+    created: "2025-01-02T10:11:44.739855256Z"
     description: Helm chart for Flux Configurations
     digest: 8eacd5e7e024c2579ee3970db0d72394a1506c59cb2dd5919f9544bb42b073f5
     name: lscsde-flux
@@ -1379,7 +1389,7 @@ entries:
     version: 0.1.63
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.041364746Z"
+    created: "2025-01-02T10:11:44.737321496Z"
     description: Helm chart for Flux Configurations
     digest: 9d2875d3a0c56f4e9064c34ff9085883d9cef55d65b6ace2a6f706d7b608604d
     name: lscsde-flux
@@ -1389,7 +1399,7 @@ entries:
     version: 0.1.62
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.038861721Z"
+    created: "2025-01-02T10:11:44.734845974Z"
     description: Helm chart for Flux Configurations
     digest: 504f71ffc01ef93658cedd76e25cd2399231ca774f8da75f9ce394a8228a6fda
     name: lscsde-flux
@@ -1399,7 +1409,7 @@ entries:
     version: 0.1.61
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.036372382Z"
+    created: "2025-01-02T10:11:44.731638663Z"
     description: Helm chart for Flux Configurations
     digest: c2790fca8666000ec0f9122cc939150aca7b67d41cfbfbc1a30e1d4e1a61a76b
     name: lscsde-flux
@@ -1409,7 +1419,7 @@ entries:
     version: 0.1.60
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.019752806Z"
+    created: "2025-01-02T10:11:44.727284947Z"
     description: Helm chart for Flux Configurations
     digest: b8fbbaf1450c86e235d62c78073bec08a3e5b32f54cf673f14fcaf7dc87354f3
     name: lscsde-flux
@@ -1419,7 +1429,7 @@ entries:
     version: 0.1.59
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.017359929Z"
+    created: "2025-01-02T10:11:44.724817932Z"
     description: Helm chart for Flux Configurations
     digest: fdd4fa4a737a871576abb9f8ad632ab5278634b426b17cfdba7a3d01e54e06ee
     name: lscsde-flux
@@ -1429,7 +1439,7 @@ entries:
     version: 0.1.58
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.014974435Z"
+    created: "2025-01-02T10:11:44.722430786Z"
     description: Helm chart for Flux Configurations
     digest: c249d675a68f1ce4a808acb3614dbcc7d94bd565082b56fd8dd50a18f8e739be
     name: lscsde-flux
@@ -1439,7 +1449,7 @@ entries:
     version: 0.1.57
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.012616784Z"
+    created: "2025-01-02T10:11:44.719356494Z"
     description: Helm chart for Flux Configurations
     digest: bfd93ef955c4b68fc4a716e0440a9236ba22fa5a2b631a88d0dae99fee8ea06e
     name: lscsde-flux
@@ -1449,7 +1459,7 @@ entries:
     version: 0.1.56
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.00958903Z"
+    created: "2025-01-02T10:11:44.716963737Z"
     description: Helm chart for Flux Configurations
     digest: 7550d64ed738c75ca4051a04edce8bc9bd6260f1a0ac51012d2e89ea39b62aaf
     name: lscsde-flux
@@ -1459,7 +1469,7 @@ entries:
     version: 0.1.55
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.007251797Z"
+    created: "2025-01-02T10:11:44.714606046Z"
     description: Helm chart for Flux Configurations
     digest: d38add66be17b15022fa95068b18e425a6c54b6c0deec2f0533a158ff0797abf
     name: lscsde-flux
@@ -1469,7 +1479,7 @@ entries:
     version: 0.1.54
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.004939822Z"
+    created: "2025-01-02T10:11:44.712235441Z"
     description: Helm chart for Flux Configurations
     digest: f015e0ebd96ae7a6af27c2c78a5598bbe87969a7135702db505af994ae003b6d
     name: lscsde-flux
@@ -1479,7 +1489,7 @@ entries:
     version: 0.1.53
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.00268804Z"
+    created: "2025-01-02T10:11:44.709938764Z"
     description: Helm chart for Flux Configurations
     digest: 3966d64505efda420b5ba38ef324b671c07fa44ceef1e99339f7f134b5cdc112
     name: lscsde-flux
@@ -1489,7 +1499,7 @@ entries:
     version: 0.1.52
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.000462247Z"
+    created: "2025-01-02T10:11:44.706982514Z"
     description: Helm chart for Flux Configurations
     digest: dc78dae3bfb19061ff5cda342c1aeb5c9138aa627257be50aaf000390b6949d3
     name: lscsde-flux
@@ -1499,7 +1509,7 @@ entries:
     version: 0.1.51
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.997646876Z"
+    created: "2025-01-02T10:11:44.704592133Z"
     description: Helm chart for Flux Configurations
     digest: d2f724180fe2b4d1fa8f215dbf67efea33871e20bbdfa79e99285b8ce10d60d0
     name: lscsde-flux
@@ -1509,7 +1519,7 @@ entries:
     version: 0.1.50
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.993944481Z"
+    created: "2025-01-02T10:11:44.700888765Z"
     description: Helm chart for Flux Configurations
     digest: dbe9b81644bcc6705ec7f893143d2c9e0af0722409e2c7d6c34d0c8d2ecc331b
     name: lscsde-flux
@@ -1519,7 +1529,7 @@ entries:
     version: 0.1.49
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.991808158Z"
+    created: "2025-01-02T10:11:44.698729074Z"
     description: Helm chart for Flux Configurations
     digest: 23e45a75c960ddd82f3dc18ab649a7bfbd76862eeca53d6fa34dc1d21e2ec69f
     name: lscsde-flux
@@ -1529,7 +1539,7 @@ entries:
     version: 0.1.48
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.989634473Z"
+    created: "2025-01-02T10:11:44.696513659Z"
     description: Helm chart for Flux Configurations
     digest: 2d957cc7b3257f6d6fee386160e2b1033681114218e16409f9bffa8dc8eb79aa
     name: lscsde-flux
@@ -1539,7 +1549,7 @@ entries:
     version: 0.1.47
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.987481377Z"
+    created: "2025-01-02T10:11:44.693604103Z"
     description: Helm chart for Flux Configurations
     digest: e2b22bfbc7bcd5a1e083912421d7244925746c05ac326c1ad36e245a9f5d9dd0
     name: lscsde-flux
@@ -1549,7 +1559,7 @@ entries:
     version: 0.1.46
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.984513386Z"
+    created: "2025-01-02T10:11:44.691313898Z"
     description: Helm chart for Flux Configurations
     digest: 40d9a0bc24c8a4727275dfd6cc312b9722563bbe6ac92da3e499be393c4d5428
     name: lscsde-flux
@@ -1559,7 +1569,7 @@ entries:
     version: 0.1.45
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.982371952Z"
+    created: "2025-01-02T10:11:44.68914494Z"
     description: Helm chart for Flux Configurations
     digest: 6744065a1e6bb48116fb9ad398074823868927dfad9358c121f1106e85d5820d
     name: lscsde-flux
@@ -1569,7 +1579,7 @@ entries:
     version: 0.1.44
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.980290731Z"
+    created: "2025-01-02T10:11:44.687026727Z"
     description: Helm chart for Flux Configurations
     digest: e667628c9baba53142daf76908c6a357465ecea119c4739e01ec1351c8bdc4b1
     name: lscsde-flux
@@ -1579,7 +1589,7 @@ entries:
     version: 0.1.43
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.978191407Z"
+    created: "2025-01-02T10:11:44.684267536Z"
     description: Helm chart for Flux Configurations
     digest: 2b51358259caa06c8bf91a7422a591cd4035793cef3e9296855aba86f1875de7
     name: lscsde-flux
@@ -1589,7 +1599,7 @@ entries:
     version: 0.1.42
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.97611182Z"
+    created: "2025-01-02T10:11:44.682171625Z"
     description: Helm chart for Flux Configurations
     digest: 1c071e1203338797592f4d059cbbea445a4bccaa058e7f10b5c7fdc53a61e89f
     name: lscsde-flux
@@ -1599,7 +1609,7 @@ entries:
     version: 0.1.41
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.972942911Z"
+    created: "2025-01-02T10:11:44.680114426Z"
     description: Helm chart for Flux Configurations
     digest: b4dc11c84f76788688de4b4d865aa397c3c131c4ef982cc3d008f5d4a4d46d1a
     name: lscsde-flux
@@ -1609,7 +1619,7 @@ entries:
     version: 0.1.40
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.969535733Z"
+    created: "2025-01-02T10:11:44.676665483Z"
     description: Helm chart for Flux Configurations
     digest: e4a2c03e3f85c616af33beab67a2d1c0c14bffae78c6dbd06b9b98e5bfaba958
     name: lscsde-flux
@@ -1619,7 +1629,7 @@ entries:
     version: 0.1.39
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.967637077Z"
+    created: "2025-01-02T10:11:44.67471302Z"
     description: Helm chart for Flux Configurations
     digest: c9ff4e2cf7f9c15ccdf968026c4c25232f74b6850f0f638718856de627aec850
     name: lscsde-flux
@@ -1629,7 +1639,7 @@ entries:
     version: 0.1.38
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.965660704Z"
+    created: "2025-01-02T10:11:44.672111133Z"
     description: Helm chart for Flux Configurations
     digest: 5198da97680291a799d96cad69a238c4b712a3bcadfdfbc3ed75fdbc545eb95d
     name: lscsde-flux
@@ -1639,7 +1649,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.963724707Z"
+    created: "2025-01-02T10:11:44.670198024Z"
     description: Helm chart for Flux Configurations
     digest: 7bc7a6d18029b59911f53f3867fa5cf5f576e9a226e06c314ee60070f2014e4d
     name: lscsde-flux
@@ -1649,7 +1659,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.961122664Z"
+    created: "2025-01-02T10:11:44.668313018Z"
     description: Helm chart for Flux Configurations
     digest: a79226d7512aed1f2867a60b41049705bfe86c396fc4856bae94ce07238259bf
     name: lscsde-flux
@@ -1659,7 +1669,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.959225129Z"
+    created: "2025-01-02T10:11:44.66644371Z"
     description: Helm chart for Flux Configurations
     digest: ea236bd2ce122600b6924fd9f5da47d944aa829dcd201528f84b948f55d27492
     name: lscsde-flux
@@ -1669,7 +1679,7 @@ entries:
     version: 0.1.34
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.957373752Z"
+    created: "2025-01-02T10:11:44.664517587Z"
     description: Helm chart for Flux Configurations
     digest: eff8fd8863d1f40f6e6d9abcb1f0725d1d74de4b734fd04a75e8d501bfa429f4
     name: lscsde-flux
@@ -1679,7 +1689,7 @@ entries:
     version: 0.1.33
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.955508127Z"
+    created: "2025-01-02T10:11:44.66192325Z"
     description: Helm chart for Flux Configurations
     digest: 4331c4e4ff497a31753f363733833763adfdbc9687e6f14a9d3736517d19c728
     name: lscsde-flux
@@ -1689,7 +1699,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.953658033Z"
+    created: "2025-01-02T10:11:44.660099067Z"
     description: Helm chart for Flux Configurations
     digest: 94ee18b9566d86b605ae74a8ccd30300c8b8436be1ebab5da67030dd20bc48d3
     name: lscsde-flux
@@ -1699,7 +1709,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.951834147Z"
+    created: "2025-01-02T10:11:44.65827789Z"
     description: Helm chart for Flux Configurations
     digest: 809d4b871fd37813d68d3abbf9f421905eab4114951126454a5ea95704256d0e
     name: lscsde-flux
@@ -1709,7 +1719,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.947836659Z"
+    created: "2025-01-02T10:11:44.655015666Z"
     description: Helm chart for Flux Configurations
     digest: fcd46411b911fa05e85096b9ab2c0933cdbabf74a0f43d49df60e66e1b3ac550
     name: lscsde-flux
@@ -1719,7 +1729,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.94599492Z"
+    created: "2025-01-02T10:11:44.653163361Z"
     description: Helm chart for Flux Configurations
     digest: d7d26c295a6d8e090f052cd1997fabfce210253e23112fbee45a376162c16e5c
     name: lscsde-flux
@@ -1729,7 +1739,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.944192585Z"
+    created: "2025-01-02T10:11:44.650699854Z"
     description: Helm chart for Flux Configurations
     digest: c03378c9549cb71ec38baf2854e8ce6d914956ef496b963184f4d69e6995101c
     name: lscsde-flux
@@ -1739,7 +1749,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.942440594Z"
+    created: "2025-01-02T10:11:44.648911138Z"
     description: Helm chart for Flux Configurations
     digest: cd625a97a48cf57f2d37038ce7eb94873ba152487372f446a562fc82a7c06ac4
     name: lscsde-flux
@@ -1749,7 +1759,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.940694485Z"
+    created: "2025-01-02T10:11:44.647175801Z"
     description: Helm chart for Flux Configurations
     digest: 5a7d13fbdc449581d2f369ef1b6d17f0463dbbaae6e2db9b8f9c222082508af0
     name: lscsde-flux
@@ -1759,7 +1769,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.938266181Z"
+    created: "2025-01-02T10:11:44.645401432Z"
     description: Helm chart for Flux Configurations
     digest: 8711d83122438a5d36acb0bfbc137e6dafbffd9d39b029eaca609da8964d5ffd
     name: lscsde-flux
@@ -1769,7 +1779,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.936576819Z"
+    created: "2025-01-02T10:11:44.643697684Z"
     description: Helm chart for Flux Configurations
     digest: b1f7c63c48674395dd6f132a7afbe3b32b40f0f61e7cf2ce18cb6f9b2a87f762
     name: lscsde-flux
@@ -1779,7 +1789,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.934508723Z"
+    created: "2025-01-02T10:11:44.641602694Z"
     description: Helm chart for Flux Configurations
     digest: 3bf1ed8de3044ee888bb5aca30f6d0daab87dc0953ad87300ef62e1eeb5e8b1c
     name: lscsde-flux
@@ -1789,7 +1799,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.932533823Z"
+    created: "2025-01-02T10:11:44.639070756Z"
     description: Helm chart for Flux Configurations
     digest: fd2d0b526b3814e3bfe5e4f38d590c991a80c4321c3e3e375acc553489f025b0
     name: lscsde-flux
@@ -1799,7 +1809,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.930583799Z"
+    created: "2025-01-02T10:11:44.636861743Z"
     description: Helm chart for Flux Configurations
     digest: 80fa45a02b7f3b93288b13218f9b2fa8afda4661c13f4e5d015e80bb6fbba404
     name: lscsde-flux
@@ -1809,7 +1819,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.926671308Z"
+    created: "2025-01-02T10:11:44.633495345Z"
     description: Helm chart for Flux Configurations
     digest: ffdef90018ca5dc181696ae649efe3b98a171d08671bede046509e60c841f930
     name: lscsde-flux
@@ -1819,7 +1829,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.924554661Z"
+    created: "2025-01-02T10:11:44.631639042Z"
     description: Helm chart for Flux Configurations
     digest: 4beca3f10e05c4e80d830dd4e6a2a05ee834e611b367f582798d45bedf9fa88e
     name: lscsde-flux
@@ -1829,7 +1839,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.922714826Z"
+    created: "2025-01-02T10:11:44.629766008Z"
     description: Helm chart for Flux Configurations
     digest: 74617823d2a22e660e4b37a7b0b4a41b7730b11be2ae06146eaca042f0ebdef0
     name: lscsde-flux
@@ -1839,7 +1849,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.920752549Z"
+    created: "2025-01-02T10:11:44.627939771Z"
     description: Helm chart for Flux Configurations
     digest: 1480ec36561e8bf1a7cc82e79ffa2160afb1f103397aa2a8386490ff61ec52bb
     name: lscsde-flux
@@ -1849,7 +1859,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.918946457Z"
+    created: "2025-01-02T10:11:44.625391988Z"
     description: Helm chart for Flux Configurations
     digest: 8e220d829577ac836f9a4fff54f5a969d7fb0d000da784d15249fc9675285b4c
     name: lscsde-flux
@@ -1859,7 +1869,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.917228772Z"
+    created: "2025-01-02T10:11:44.62366698Z"
     description: Helm chart for Flux Configurations
     digest: aec6a3c41774d321933f69a70775c28d7f655263febe6a8465a27e9b2d9c027e
     name: lscsde-flux
@@ -1869,7 +1879,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.914805058Z"
+    created: "2025-01-02T10:11:44.621923539Z"
     description: Helm chart for Flux Configurations
     digest: 55f6f18eddd1dbbb75cf1c6aac41e28c2754f02cda399f9234aa7e9375c38d23
     name: lscsde-flux
@@ -1879,7 +1889,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.913115185Z"
+    created: "2025-01-02T10:11:44.620228587Z"
     description: Helm chart for Flux Configurations
     digest: e16da49721c13fd819f5a5952dfb5547d815ea6474c04d3048de72bde9722867
     name: lscsde-flux
@@ -1889,7 +1899,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.911418879Z"
+    created: "2025-01-02T10:11:44.618541501Z"
     description: Helm chart for Flux Configurations
     digest: b6cc8bc1a5ad1aafabefe8c1e8f8b911ce0690ad1ddb69ad85deef16f7218de6
     name: lscsde-flux
@@ -1899,7 +1909,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.102003679Z"
+    created: "2025-01-02T10:11:44.79879056Z"
     description: Helm chart for Flux Configurations
     digest: df8b739e4e3169fb1be8a95b1f098f63d7b012655f51412dc4918727ee776df4
     name: lscsde-flux
@@ -1909,7 +1919,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.08820064Z"
+    created: "2025-01-02T10:11:44.784690375Z"
     description: Helm chart for Flux Configurations
     digest: d310aa24b595269d06e669a49f148ef30708bac5b5cd8888087a89bbd1c3ac01
     name: lscsde-flux
@@ -1919,7 +1929,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.056769011Z"
+    created: "2025-01-02T10:11:44.752786502Z"
     description: Helm chart for Flux Configurations
     digest: 848ad32ad060f09a07125fccec0e9a583022311fb4c42faa383771d78a9ae05b
     name: lscsde-flux
@@ -1929,7 +1939,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.021392435Z"
+    created: "2025-01-02T10:11:44.729163522Z"
     description: Helm chart for Flux Configurations
     digest: c7c3ae36bb9f4b51f0c669de8122aed547b7afb2e9a1ac0a9dfe0a0626d7b9b7
     name: lscsde-flux
@@ -1939,7 +1949,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.99548329Z"
+    created: "2025-01-02T10:11:44.702429768Z"
     description: Helm chart for Flux Configurations
     digest: c74ca69f09540a962c64d381b37446cddb5e4a8a74fd73eef1f18a1c66960d27
     name: lscsde-flux
@@ -1949,7 +1959,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.971002326Z"
+    created: "2025-01-02T10:11:44.678143198Z"
     description: Helm chart for Flux Configurations
     digest: 17283cd5e9a94506dadf219b7d9446c054d6f7d86c9166a0b9ba3801da98ce6a
     name: lscsde-flux
@@ -1959,7 +1969,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.949246745Z"
+    created: "2025-01-02T10:11:44.656458897Z"
     description: Helm chart for Flux Configurations
     digest: f5f28563eb7505ca36cb8e100830cd4982649f97b011ad41b828669bf4584c49
     name: lscsde-flux
@@ -1969,7 +1979,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.928643705Z"
+    created: "2025-01-02T10:11:44.634912877Z"
     description: Helm chart for Flux Configurations
     digest: a104b0708b817d434cb0ff9a8de3a8a92b8cc7c656de27626ff330c1be85247f
     name: lscsde-flux
@@ -1979,7 +1989,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:00.909759874Z"
+    created: "2025-01-02T10:11:44.616859204Z"
     description: Helm chart for Flux Configurations
     digest: 6cd4c446474397347f9ebcfba53604b7d20c877d30cea6760f418a243d299fc1
     name: lscsde-flux
@@ -1990,7 +2000,7 @@ entries:
   lscsde-namespaces:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.110161461Z"
+    created: "2025-01-02T10:11:44.80647134Z"
     description: Helm chart for Flux Configurations
     digest: 714f997d9e1fa75e44027c1fd09ab8ba49e560240af44c04ab57f7c2f36a360d
     name: lscsde-namespaces
@@ -2000,7 +2010,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.10892925Z"
+    created: "2025-01-02T10:11:44.805047316Z"
     description: Helm chart for Flux Configurations
     digest: e40415f8dc2d32674808987d5631b8dbc252b129d39705bd1fbc30ed4c4296bc
     name: lscsde-namespaces
@@ -2010,7 +2020,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.107074431Z"
+    created: "2025-01-02T10:11:44.803862289Z"
     description: Helm chart for Flux Configurations
     digest: 9f9a58fe395f08dc41d58aeea9ab2cf429e4d3ce1defb2db96dcc689c22f3080
     name: lscsde-namespaces
@@ -2020,7 +2030,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.105902594Z"
+    created: "2025-01-02T10:11:44.802710083Z"
     description: Helm chart for Flux Configurations
     digest: 600a5c7565f1028ccba61f532b01713560872db78f77d0ebcc3ed214cb2a9682
     name: lscsde-namespaces
@@ -2030,7 +2040,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.104758729Z"
+    created: "2025-01-02T10:11:44.80155919Z"
     description: Helm chart for Flux Configurations
     digest: a1ad9468daafabda74354b664f321719c7316f7f8199e47148b34cbd16d4f0b1
     name: lscsde-namespaces
@@ -2040,7 +2050,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.103696098Z"
+    created: "2025-01-02T10:11:44.800482025Z"
     description: Helm chart for Flux Configurations
     digest: 4fe9767c488b07e8396d8306267ed8eae3d08a4658358ba4d670e9af60b16e8c
     name: lscsde-namespaces
@@ -2050,7 +2060,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.117242549Z"
+    created: "2025-01-02T10:11:44.814276163Z"
     description: Helm chart for Flux Configurations
     digest: af9020dd60f363c540a918dac3ae4a29364d5091903aa4d80a6132486e99fb25
     name: lscsde-namespaces
@@ -2060,7 +2070,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.116214853Z"
+    created: "2025-01-02T10:11:44.813250243Z"
     description: Helm chart for Flux Configurations
     digest: fb688d3a7e237f90eff96fc6e538aab7457e24db3e8c9d2a3974f4ad2d8e99ac
     name: lscsde-namespaces
@@ -2070,7 +2080,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.115216763Z"
+    created: "2025-01-02T10:11:44.81228615Z"
     description: Helm chart for Flux Configurations
     digest: 6706958997a13711396b1d0387e605fa8e5e48a014e562c469cbc8e03312cf05
     name: lscsde-namespaces
@@ -2080,7 +2090,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.114266704Z"
+    created: "2025-01-02T10:11:44.81135121Z"
     description: Helm chart for Flux Configurations
     digest: 482ecdf36e9c5bada3bccca14c6d032358564b18c43753c8ac7e8129bfb2ce19
     name: lscsde-namespaces
@@ -2090,7 +2100,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.113387337Z"
+    created: "2025-01-02T10:11:44.810404069Z"
     description: Helm chart for Flux Configurations
     digest: 5643d7cdb84773da056f9ea2fa6fdc3d7f70bd5c0bd51c75d52488e94f150269
     name: lscsde-namespaces
@@ -2100,7 +2110,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.112522308Z"
+    created: "2025-01-02T10:11:44.809468408Z"
     description: Helm chart for Flux Configurations
     digest: 5458affe091baed184ae9c64fe5ab5b2c565a72120b563ad7f8a0dd5778f58df
     name: lscsde-namespaces
@@ -2110,7 +2120,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.111682686Z"
+    created: "2025-01-02T10:11:44.808553767Z"
     description: Helm chart for Flux Configurations
     digest: 7fbf6b60770916a82a6838f49c3d06d0294b592b381664f9f5672dada8d610f9
     name: lscsde-namespaces
@@ -2120,7 +2130,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.110854416Z"
+    created: "2025-01-02T10:11:44.807711541Z"
     description: Helm chart for Flux Configurations
     digest: 3177771ecef9dc560554b9138092b94e56cb6c56ace0fa401361c419f6cbef6c
     name: lscsde-namespaces
@@ -2130,7 +2140,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.102634738Z"
+    created: "2025-01-02T10:11:44.799443491Z"
     description: Helm chart for Flux Configurations
     digest: 1e7b7a50aa9f64bb86276d89c1ecf6a54a5171b1195db0a006eddd2d285006e0
     name: lscsde-namespaces
@@ -2141,7 +2151,7 @@ entries:
   ohdsi:
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.131221271Z"
+    created: "2025-01-02T10:11:44.82863901Z"
     description: Helm chart for OHDSI
     digest: dc7c7ebae5b0a77fa0acc44ec49c52fa02a86374bd5033e5e34aa874338ead0b
     name: ohdsi
@@ -2151,7 +2161,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.130661566Z"
+    created: "2025-01-02T10:11:44.8280674Z"
     description: Helm chart for OHDSI
     digest: e7b94ae39a730756b0d11f850905c8dfe0e8d32dbe795909cb1db32adad9d7cd
     name: ohdsi
@@ -2161,7 +2171,7 @@ entries:
     version: 0.1.33
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.130102263Z"
+    created: "2025-01-02T10:11:44.827495871Z"
     description: Helm chart for OHDSI
     digest: 918aa8720ebbfb683c0492716bdc5146acd00352dfff26cb3eeb8003355b4fc0
     name: ohdsi
@@ -2171,7 +2181,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.129551836Z"
+    created: "2025-01-02T10:11:44.826898504Z"
     description: Helm chart for OHDSI
     digest: 71582ed35a16fca4e37c3371f7430578c7d699eee40ddc18f71742dd8f11ba2d
     name: ohdsi
@@ -2181,7 +2191,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.128545711Z"
+    created: "2025-01-02T10:11:44.82582726Z"
     description: Helm chart for OHDSI
     digest: 72f2b57be119f135bbca1e20e636834c05232e98a5ea04e4ea0948daad95c456
     name: ohdsi
@@ -2191,7 +2201,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.127955049Z"
+    created: "2025-01-02T10:11:44.824339362Z"
     description: Helm chart for OHDSI
     digest: 9f51cdbcb4ce372b1d388f5a0060811f095e421510f802359f8d5ba9d45d4329
     name: ohdsi
@@ -2201,7 +2211,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.127392318Z"
+    created: "2025-01-02T10:11:44.823785095Z"
     description: Helm chart for OHDSI
     digest: bf5ed4fa25e855921f69fd37340ed251a0c52cbb6472e3d5ef94f09671fb4086
     name: ohdsi
@@ -2211,7 +2221,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.126778723Z"
+    created: "2025-01-02T10:11:44.823235596Z"
     description: Helm chart for OHDSI
     digest: d0dcd48228675b16fbdedd2c67bf4765554c49184229eb7abb02cde37020cb29
     name: ohdsi
@@ -2221,7 +2231,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.125782903Z"
+    created: "2025-01-02T10:11:44.822707428Z"
     description: Helm chart for OHDSI
     digest: cc3fded1bc1a283d76741e0c6e48ba4fc26b820cbf0d349f2f99143f51d110da
     name: ohdsi
@@ -2231,7 +2241,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.125092102Z"
+    created: "2025-01-02T10:11:44.822133695Z"
     description: Helm chart for OHDSI
     digest: f194323bd5ff0537532f76f486be88bf839a2d413fe6c9229106429246399579
     name: ohdsi
@@ -2241,7 +2251,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.124559659Z"
+    created: "2025-01-02T10:11:44.821619804Z"
     description: Helm chart for OHDSI
     digest: fb13f0c6df253e8740d75685e7d648ec1017611f3fd39c4303122f8d8facf972
     name: ohdsi
@@ -2251,7 +2261,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.124049258Z"
+    created: "2025-01-02T10:11:44.8211047Z"
     description: Helm chart for OHDSI
     digest: 897a6389a004d211ffb924e934f1db0a045b1193d966089aa4598fd912060c22
     name: ohdsi
@@ -2261,7 +2271,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.123527865Z"
+    created: "2025-01-02T10:11:44.820586811Z"
     description: Helm chart for OHDSI
     digest: 77d20b366320d70c5d7e97116b9d5a238aab9e22ee80dfd74b3d96f84935da07
     name: ohdsi
@@ -2271,7 +2281,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.123021001Z"
+    created: "2025-01-02T10:11:44.820109107Z"
     description: Helm chart for OHDSI
     digest: a1b97a191a370add1b13928d920166dbb855bb4a4291d8e9c0f7452c2a16ff3b
     name: ohdsi
@@ -2281,7 +2291,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.122138989Z"
+    created: "2025-01-02T10:11:44.81920221Z"
     description: Helm chart for OHDSI
     digest: b945ba1c32e5c81487c5380c6ffd891bbdccc0bf22adaa465a85184499de34eb
     name: ohdsi
@@ -2291,7 +2301,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.121671969Z"
+    created: "2025-01-02T10:11:44.818717844Z"
     description: Helm chart for OHDSI
     digest: 859dc83a825222df856d4756941b9221803a35e0447c000b9387a8db0f2214cc
     name: ohdsi
@@ -2301,7 +2311,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.12121536Z"
+    created: "2025-01-02T10:11:44.818193453Z"
     description: Helm chart for OHDSI
     digest: e25689ace3ca4c0844feb0cb094bee7bea92cf4972ae1572e9dd6c1a87633ea3
     name: ohdsi
@@ -2311,7 +2321,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.12076971Z"
+    created: "2025-01-02T10:11:44.817510644Z"
     description: Helm chart for OHDSI
     digest: 1a7bc9cf952934bcdd883e38c7846e2c3868df5eab7b5787fec6b54e92159d9f
     name: ohdsi
@@ -2321,7 +2331,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.120320544Z"
+    created: "2025-01-02T10:11:44.816504482Z"
     description: Helm chart for OHDSI
     digest: c04aff9679a416c1ce3c1a85c571682c8e2b80276c6645e8a3145c8dd0178128
     name: ohdsi
@@ -2331,7 +2341,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.119858524Z"
+    created: "2025-01-02T10:11:44.816053839Z"
     description: Helm chart for OHDSI
     digest: 89c75776e780296a1e6dd4f3e818ea2cb04d57399d8dfad9164c367e94828d12
     name: ohdsi
@@ -2341,7 +2351,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.119328425Z"
+    created: "2025-01-02T10:11:44.815592465Z"
     description: Helm chart for OHDSI
     digest: 43a5e9dbb726b6705095b03b6a905e2ac1398986a394afbc74e55861af8bf94b
     name: ohdsi
@@ -2351,7 +2361,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.134688519Z"
+    created: "2025-01-02T10:11:44.831351465Z"
     description: Helm chart for OHDSI
     digest: 9f990017615f3a211303c1a226cde8b720180d60beb57c342eaced59991fd696
     name: ohdsi
@@ -2361,7 +2371,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.134214325Z"
+    created: "2025-01-02T10:11:44.830910299Z"
     description: Helm chart for OHDSI
     digest: afe07dbf1f0c7ae73ffa8f18125f1db8328c56b1c69cba6fc0d8e80a38dee19f
     name: ohdsi
@@ -2371,7 +2381,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.133007796Z"
+    created: "2025-01-02T10:11:44.830432976Z"
     description: Helm chart for OHDSI
     digest: ea82aa553e7384d2fd8400a00be778501fc3354f596fe19ef47bf0aeb9edea15
     name: ohdsi
@@ -2381,7 +2391,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.132572937Z"
+    created: "2025-01-02T10:11:44.829957607Z"
     description: Helm chart for OHDSI
     digest: 148fe3129a61518afe4a6de11862a3357ea5aa6cd272eff1a2612f1ea876d5fc
     name: ohdsi
@@ -2391,7 +2401,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.132137246Z"
+    created: "2025-01-02T10:11:44.82952105Z"
     description: Helm chart for OHDSI
     digest: f9a055a4952bb55bd434e2456fe0b80644c22749f64f86e8da3950d8fffdb954
     name: ohdsi
@@ -2401,7 +2411,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.131698099Z"
+    created: "2025-01-02T10:11:44.829081538Z"
     description: Helm chart for OHDSI
     digest: f8b75f6f9c5fcc5529b9ac889a98bac2fe829ad5a6ee75e44846737b4ee1011e
     name: ohdsi
@@ -2411,7 +2421,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.128996991Z"
+    created: "2025-01-02T10:11:44.826325762Z"
     description: Helm chart for OHDSI
     digest: 806aaceab812df7e61244867e7ed2b1f8f338324692df9b2caff79d8f1f74f23
     name: ohdsi
@@ -2421,7 +2431,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.122550995Z"
+    created: "2025-01-02T10:11:44.819631073Z"
     description: Helm chart for OHDSI
     digest: b3a03b64a4d843b03466511edc3d0bb89a1a3ae927f3caadb673e29de285ef80
     name: ohdsi
@@ -2431,7 +2441,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.11804971Z"
+    created: "2025-01-02T10:11:44.815128277Z"
     description: Helm chart for OHDSI
     digest: a20962c21f7cb8a792ce665d333c06bbe5474a7c010898a3bb92baf6871e0bc1
     name: ohdsi
@@ -2441,7 +2451,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-12-31T10:02:01.117650738Z"
+    created: "2025-01-02T10:11:44.814721686Z"
     description: Helm chart for OHDSI
     digest: 61646a4b1cd736c3fe5db83d595322219b66343b32b3d088626ca03e4b962a6c
     name: ohdsi
@@ -2452,7 +2462,7 @@ entries:
   secrets-distributor:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.136606962Z"
+    created: "2025-01-02T10:11:44.833871269Z"
     description: A Helm chart for the Secrets Distributor
     digest: be4a7c233f9e4073da4ebeb1b4c50819bbb3db449f2679f0ada3534d25c4a802
     name: secrets-distributor
@@ -2462,7 +2472,7 @@ entries:
     version: 0.2.14
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.136408458Z"
+    created: "2025-01-02T10:11:44.833663581Z"
     description: A Helm chart for the Secrets Distributor
     digest: 01d6b8cd282ac9c6808a9e5282a038943939fdcdc159195a31ba8aaf9ade2105
     name: secrets-distributor
@@ -2472,7 +2482,7 @@ entries:
     version: 0.2.13
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.136212459Z"
+    created: "2025-01-02T10:11:44.833372406Z"
     description: A Helm chart for the Secrets Distributor
     digest: acecf73fd21e40907038c8a8e3165c484df6dd82c2bd902c47a5d8e3e7c89ec4
     name: secrets-distributor
@@ -2482,7 +2492,7 @@ entries:
     version: 0.2.12
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.136022451Z"
+    created: "2025-01-02T10:11:44.832974592Z"
     description: A Helm chart for the Secrets Distributor
     digest: ef150b10732e54de4e384209dfacdc222254b5fa0936febd897639a3d6ef313c
     name: secrets-distributor
@@ -2492,7 +2502,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.135831151Z"
+    created: "2025-01-02T10:11:44.832426336Z"
     description: A Helm chart for the Secrets Distributor
     digest: 84bcab22b124c25a50756634c2dc901e9df3adf74e26ea67bc4b7139afcae0e6
     name: secrets-distributor
@@ -2502,7 +2512,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.13794897Z"
+    created: "2025-01-02T10:11:44.835269635Z"
     description: A Helm chart for the Secrets Distributor
     digest: 519fade51f5b1fbc611fb9574bd3995bd6b66d2dddec128bfd70d8c84d65e420
     name: secrets-distributor
@@ -2512,7 +2522,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.137760415Z"
+    created: "2025-01-02T10:11:44.835076835Z"
     description: A Helm chart for the Secrets Distributor
     digest: a023fc46b4566ebdcb192be6f0392075593eb73635ab0bded77524c32e889b81
     name: secrets-distributor
@@ -2522,7 +2532,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.13756127Z"
+    created: "2025-01-02T10:11:44.834884685Z"
     description: A Helm chart for the Secrets Distributor
     digest: b6d94a5f5b852c9ccf85e856208d90840f3e03715e1e27cd2fd5540da4a91a36
     name: secrets-distributor
@@ -2532,7 +2542,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.137373396Z"
+    created: "2025-01-02T10:11:44.834688608Z"
     description: A Helm chart for the Secrets Distributor
     digest: e4cf7c76f337e30c546e7cd114bc47467410c1afc6f9b9b878317da885117e48
     name: secrets-distributor
@@ -2542,7 +2552,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.137183979Z"
+    created: "2025-01-02T10:11:44.834494195Z"
     description: A Helm chart for the Secrets Distributor
     digest: 0132cdd0c0548b195b5d7cbc14996773c8f5dcbbc801ad853bcdc465f3891828
     name: secrets-distributor
@@ -2552,7 +2562,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.136976017Z"
+    created: "2025-01-02T10:11:44.834285945Z"
     description: A Helm chart for the Secrets Distributor
     digest: 4223cc8e16236c7433edde254e8c568bd4a0d63116e9ee9c387f480ce7e353ea
     name: secrets-distributor
@@ -2562,7 +2572,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.136791139Z"
+    created: "2025-01-02T10:11:44.834063398Z"
     description: A Helm chart for the Secrets Distributor
     digest: a1198a34c7c2f8e762afcff4759158f3a877e1040c4c236a56835ea7b146ed1a
     name: secrets-distributor
@@ -2572,7 +2582,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.135635532Z"
+    created: "2025-01-02T10:11:44.832229818Z"
     description: A Helm chart for the Secrets Distributor
     digest: 10567165f9156bcce267cfb54558ed32cf6b4942018c17c146935959885e1f4c
     name: secrets-distributor
@@ -2582,7 +2592,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.135424405Z"
+    created: "2025-01-02T10:11:44.832040925Z"
     description: A Helm chart for the Secrets Distributor
     digest: 1132185462395a2cba17a2c42e21f275b4c73a31621b91bde584adc70d7f343b
     name: secrets-distributor
@@ -2592,7 +2602,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.135194301Z"
+    created: "2025-01-02T10:11:44.831845549Z"
     description: A Helm chart for the Secrets Distributor
     digest: f6f7b28b612c09a7fbf5c9a011abc85dc6d2e9fbc7b8c6a7a376550f256fb5b8
     name: secrets-distributor
@@ -2602,7 +2612,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-12-31T10:02:01.135031034Z"
+    created: "2025-01-02T10:11:44.831683536Z"
     description: A Helm chart for the Secrets Distributor
     digest: 386ae00fded93e2f7585f73b472dc922b1599feba19a9b9ce61dd75b7cd9b7ce
     name: secrets-distributor
@@ -2612,7 +2622,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-12-31T10:02:01.134860653Z"
+    created: "2025-01-02T10:11:44.83152002Z"
     description: A Helm chart for the Secrets Distributor
     digest: 58e59cbc7d629bc0f009eabd76a3601e6d660da0f2aa397dc3aee7ee59c81c55
     name: secrets-distributor
@@ -2620,4 +2630,4 @@ entries:
     urls:
     - secrets-distributor-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-31T10:02:00.877455346Z"
+generated: "2025-01-02T10:11:44.583330019Z"
